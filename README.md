@@ -22,7 +22,9 @@ Horror Website is a spine-chilling web experience built with HTML, CSS, and Java
 #Technologies Used
 
 ○ HTML5 for structure
+
 ○ CSS3 for styling and animations
+
 ○ JavaScript for interactivity
 
 
