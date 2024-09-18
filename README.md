@@ -4,10 +4,9 @@ Horror Website is a spine-chilling web experience built with HTML, CSS, and Java
 ## How to Use
 1. Clone the repository:
     ```bash
-  https://github.com/SAURAVboi/Horror-website.git
+    git clone https://github.com/your-SAURAVboi/digital-clock.git
     ```
 2. Open the `index.html` file in any web browser to see the clock in action.
-
 #Features
 
 ○ Dark, spooky theme with animations
