@@ -10,9 +10,13 @@ Horror Website is a spine-chilling web experience built with HTML, CSS, and Java
 #Features
 
 ○ Dark, spooky theme with animations
+
 ○ Interactive horror elements (hover, click, and scroll effects)
+
 ○ Haunting audio for an immersive experience
+
 ○ Responsive design for desktop and mobile devices
+
 ○ Perfect for Halloween or horror-related events
 
 #Technologies Used
